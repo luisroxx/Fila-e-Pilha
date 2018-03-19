@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1439560983 source:m:\edados_2015-2\ed-manha\lista linear\main.cpp
+	<iostream>
+	"ListaLinear.h"
+
+1439560351 m:\edados_2015-2\ed-manha\lista linear\listalinear.h
+
