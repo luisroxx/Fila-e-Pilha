@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440163281 source:m:\edados_2015-2\ed-manha\pilhasequencial\main.cpp
+	<iostream>
+	"Pilha.h"
+
+1440162582 m:\edados_2015-2\ed-manha\pilhasequencial\pilha.h
+
