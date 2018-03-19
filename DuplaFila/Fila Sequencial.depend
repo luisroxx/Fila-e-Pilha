@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1440769854 source:m:\edados_2015-2\ed-manha\fila sequencial\main.cpp
+	<iostream>
+	"Fila.h"
+	<stdlib.h>
+
+1440767006 m:\edados_2015-2\ed-manha\fila sequencial\fila.h
+
